@@ -6,6 +6,7 @@
   "dependencies": {
     "json-server": "^0.9.4"
   },
+  "engines": { "node": "12.x"},
   "scripts": {
     "start": "json-server data.json"
   },
